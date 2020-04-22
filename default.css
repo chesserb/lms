@@ -17,12 +17,14 @@
 	width: 460px;
 	background-color: blue;
 	left: 1.7in;
+	top: .8in;
 	
 }
 #leftmenu {
 	margin-left: 10px;
 	/*float:left;*/
 	position: fixed;
+	top: .8in;
 	
 }
 
