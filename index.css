@@ -1,0 +1,27 @@
+#main {
+
+	background-color: powderblue;
+	height: 200px;
+	width: 460px;
+	
+}
+
+
+#main_super {
+	position: absolute;
+	width: 460px;
+	background-color: blue;
+	left: 1.7in;
+	
+}
+#leftmenu {
+	margin-left: 10px;
+	/*float:left;*/
+	position: absolute;
+	
+}
+
+html {
+	background-color: beige;
+	
+}
